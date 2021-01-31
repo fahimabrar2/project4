@@ -1,0 +1,54 @@
+body{
+	font-style: italic;
+	font-variant: bold
+	color:black;
+	background-color: #5fffe6;
+}
+h2{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  font-size: 25px
+}
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+a {
+	  text-align: center;
+	  background-color: black;
+    color: #5fffe6;
+    padding: 7px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+audio{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.name{
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
+
+.border{
+  border-style: solid;
+  border-background color: black; 
+}
+.imgName{
+  border-radius: 50%;
+}
